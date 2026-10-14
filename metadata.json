@@ -1,0 +1,10 @@
+{
+  "name": "RouteIQ - Public Transport Crowd Intelligence",
+  "description": "AI-powered dynamic public transport crowd intelligence for smarter passenger decisions and network crowd optimization.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
